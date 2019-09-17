@@ -1,7 +1,7 @@
 import sys, os, time, json, subprocess
 import RPi.GPIO as GPIO
-import picontrol_nfc as nfc
-import picontrol_ndef as ndef
+import nfc532 as nfc
+import ndef532 as ndef
 
 #setup GPIO
 gpioReset = 18
