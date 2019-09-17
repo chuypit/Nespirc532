@@ -2,7 +2,7 @@
 Nes pi NFC sin complicaciones 
 
 
-##Install
+## Install
 
  ```bash
 sudo apt-get update
