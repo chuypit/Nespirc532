@@ -9,7 +9,7 @@ SCLK = 4
 MISO = 17 
 MOSI = 27 
 CS   = 22 
-butoon = 18
+button = 18
  ```
 ## Install
 
