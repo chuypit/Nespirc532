@@ -8,4 +8,5 @@ Nes pi NFC sin complicaciones
 sudo apt-get update
 git clone https://github.com/chuypit/Nespirc532.git
 cd Nespirc532
+sudo sh ./setup.sh
  ``` 
