@@ -2,12 +2,15 @@
 Nes pi NFC sin complicaciones 
 
 ## Diagrama
+gpio raspberry
 
-SCLK = 4 #2 
-MISO = 17 #15
-MOSI = 27 #17
-CS   = 22 #18
-
+ ```bash
+SCLK = 4  
+MISO = 17 
+MOSI = 27 
+CS   = 22 
+butoon = 18
+ ```
 ## Install
 
  ```bash
